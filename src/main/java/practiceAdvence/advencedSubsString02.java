@@ -8,7 +8,7 @@ public class advencedSubsString02 {
 
          */
         Scanner input=new Scanner(System.in);
-        System.out.println("Lütfen ad ve soyadınızı ayrı ayrı giriniz");
+        System.out.println("Lütfen ad ve soyadınızı ayrı ayrı giriniz git hub icin yazıldı");
         String str= input.nextLine();
         String ad=str.substring(0,str.indexOf(" "));
         String soyad=str.substring(str.indexOf(" ")+1);
