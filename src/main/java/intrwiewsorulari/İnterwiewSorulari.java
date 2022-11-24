@@ -208,7 +208,7 @@ public class İnterwiewSorulari {
     C12:
 
             1. İsim çatışmasını önler.
-2. Kodlara kolay ulaşım sağlar.
+             2. Kodlara kolay ulaşım sağlar.
             3. Gizli Class’ları barındırır ki Class dışından görülemesin.
 
     S13: Neden pointer lar Java da kullanılmazlar?
